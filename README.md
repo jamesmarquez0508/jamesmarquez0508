@@ -14,5 +14,8 @@ I am adept at leveraging cutting-edge technologies to deliver innovative solutio
   <img align="center" alt="Vitu-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-## My Tracking:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jamesmarquez0508&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+## Find me at:
+[WEBSITE](https://www.test) | [LINKEDIN](https://www.linkedin.com/in/jamesmarquez0508) |  [EMAIL](mailto:jamesmarquez0508@gmail.com)
+
+
+
