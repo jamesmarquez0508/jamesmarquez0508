@@ -15,4 +15,4 @@ I am adept at leveraging cutting-edge technologies to deliver innovative solutio
 </div>
 
 ## My Tracking:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jamesmarquez0508&hide_border=true&border_radius=10)](https://git.io/streak-stats)
