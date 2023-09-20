@@ -4,7 +4,7 @@
 ![https://github.com/jamesmarquez0508](https://github.com/jamesmarquez0508/jamesmarquez0508/blob/main/banner.jpg)
 
 I'm a dedicated and results-driven Senior Software Engineer with over 10 years of experience in the design, development, and maintenance of web and mobile applications.
-I possess a proficiency in harnessing state-of-the-art technologies to provide innovative solutions that not only meet but also surpass client expectations. I have strong collaboration skills with a proven ability to work on cross-functional teams and drive project success. I'm committed to continuous learning and staying updated with industry trends.
+I possess a proficiency in harnessing cutting-edge technologies to provide innovative solutions that not only meet but also surpass client expectations. I have strong collaboration skills with a proven ability to work on cross-functional teams and drive project success. I'm committed to continuous learning and staying updated with industry trends.
 
 ## Skills:
 <div style="display: inline_block"><br>
