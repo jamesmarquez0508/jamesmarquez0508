@@ -41,7 +41,7 @@ I possess a proficiency in harnessing cutting-edge technologies to provide innov
 </div>
 
 ## Find me at:
-[WEBSITE](https://www.test) | [LINKEDIN](https://www.linkedin.com/in/jamesmarquez0508) |  [EMAIL](mailto:jamesmarquez0508@gmail.com)
+[WEBSITE](https://jamesmarquez.vercel.app) | [LINKEDIN](https://www.linkedin.com/in/jamesmarquez0508) |  [EMAIL](mailto:jamesmarquez0508@gmail.com)
 
 
 
