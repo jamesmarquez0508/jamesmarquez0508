@@ -33,7 +33,7 @@ I possess a proficiency in harnessing cutting-edge technologies to provide innov
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg">
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-  <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/amazon-2.svg">
+  <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/azure-2.svg"> 
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
